@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Profile /> mathces snapshot 1`] = `
+<Profile
+  name="tak"
+  username="louis"
+>
+  <div>
+    <b>
+      louis
+    </b>
+     
+    <span>
+      (
+      tak
+      )
+    </span>
+  </div>
+</Profile>
+`;
